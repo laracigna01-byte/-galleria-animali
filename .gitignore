@@ -1,0 +1,11 @@
+immagini_animali/
+
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.venv/
+.env
+
+.idea/
